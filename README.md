@@ -3,7 +3,7 @@ Course Project
 
 Links to project:
 
-Shiny: https://masabeca.shinyapps.io/Developing_Data_Products/
+Shiny: https://masabeca.shinyapps.io/Developing_Data_Products
 
 Github repo: http://https://github.com/Masabeca/Developing-Data-Products
 
