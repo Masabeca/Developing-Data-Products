@@ -10,7 +10,7 @@ Github repo: http://https://github.com/Masabeca/Developing-Data-Products
 
 Links to project pitch:
 
-Rpubs: http://
+Rpubs: http://http://rpubs.com/MasaB/DDP-CP
 
 Github io: http://https://github.com/Masabeca/Developing-Data-Products
 
