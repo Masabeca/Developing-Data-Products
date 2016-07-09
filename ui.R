@@ -15,9 +15,9 @@ shinyUI(fluidPage(
     sidebarPanel(
       sliderInput("n", 
                   "Number of observations:", 
-                  value = 5000,
+                  value = 50,
                   min = 1, 
-                  max = 10000),
+                  max = 100),
       br(),
       
       radioButtons("dist", "Distribution type:",
