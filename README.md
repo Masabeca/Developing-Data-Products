@@ -4,23 +4,23 @@ Welcome to the "Probability distributions" app, that was developed for the Devel
 
 This app  Visualize several probability distributions
 
-.  Understand how they compare with normal distributions
+-  Understand how they compare with normal distributions
 
-.  Developed as a Shiny application.  
+-  Developed as a Shiny application.  
 
 User can vary:
 
- .  Number of observations
+ -  Number of observations
 
-.   Type of distribution
+ -  Type of distribution
 
-.  Fill and border colors of bars of histogram.
+ -  Fill and border colors of bars of histogram.
 
 Source code for ui.R and server.R files are available on the GitHub.
 
 Links to project:
 
-Shiny: https://masabeca.shinyapps.io/Developing_Data_Products
+Shinyapps.io: https://masabeca.shinyapps.io/Developing_Data_Products
 
 Github repo: https://github.com/Masabeca/Developing-Data-Products
 
